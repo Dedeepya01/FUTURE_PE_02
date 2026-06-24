@@ -38,10 +38,11 @@ The objective of this project is to use AI and prompt engineering to generate a 
 * UGC-style ad scripts
 * Problem–solution–CTA based ad formats
 * Instagram reel content
-* CTA's
-* Engaging Captions 
+* Facebook Ads
 * Youtube Shorts
-
+* CTA Generation
+* Engaging Captions 
+  
 ---
 
 ## Skills Gained
@@ -112,6 +113,7 @@ Problem–Solution–CTA Script
 * ChatGPT
 * Claude AI
 * Google Docs
+* GitHub
 
 ---
 

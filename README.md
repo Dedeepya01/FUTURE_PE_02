@@ -1,6 +1,6 @@
 # FUTURE_PE_02
 # AI Content Marketing using UGC Ads
-# AI-Powered Website Copy Generator for Brew Haven Café
+
 
 ## Project Overview
 
